@@ -1,0 +1,11 @@
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\bin\Debug\fractals.exe.config
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\bin\Debug\fractals.exe
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\bin\Debug\fractals.pdb
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.csproj.AssemblyReference.cache
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.csproj.SuggestedBindingRedirects.cache
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.Form1.resources
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.Properties.Resources.resources
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.csproj.GenerateResource.cache
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.csproj.CoreCompileInputs.cache
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.exe
+C:\Users\79381\Desktop\sfedu\7_семестр\графика\lab_5\fractals\fractals\obj\Debug\fractals.pdb
