@@ -44,7 +44,7 @@ namespace Laba4.Primitives
         {
             return new PointApp(p.X, p.Y);
         }
-        public void Draw(Graphics g, bool selected)
+        public void Draw(Graphics g, bool selected = false)
         {
             Brush brh;
             if (selected)

@@ -67,17 +67,24 @@
             this.domainUpDown1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.domainUpDown1.Items.Add("Куст 1");
             this.domainUpDown1.Items.Add("Куст 2");
+            this.domainUpDown1.Items.Add("Дерево");
             this.domainUpDown1.Items.Add("Кривая Коха");
             this.domainUpDown1.Items.Add("Снежинка Коха");
-            this.domainUpDown1.Location = new System.Drawing.Point(12, 73);
+            this.domainUpDown1.Items.Add("6-угольная мозаика");
+            this.domainUpDown1.Items.Add("6-угольная кривая Госпера");
+            this.domainUpDown1.Items.Add("Ковер Серпинского");
+            this.domainUpDown1.Items.Add("Наконечник Серпинского");
+            this.domainUpDown1.Items.Add("Кривая Гильберта");
+            this.domainUpDown1.Items.Add("Кривая Дракона Х.Х.");
+            this.domainUpDown1.Location = new System.Drawing.Point(12, 77);
             this.domainUpDown1.Name = "domainUpDown1";
-            this.domainUpDown1.Size = new System.Drawing.Size(156, 24);
+            this.domainUpDown1.Size = new System.Drawing.Size(206, 24);
             this.domainUpDown1.TabIndex = 4;
             this.domainUpDown1.Text = "Тип фрактала";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 103);
+            this.button1.Location = new System.Drawing.Point(12, 125);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 31);
             this.button1.TabIndex = 5;
